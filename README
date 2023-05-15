@@ -1,1 +1,4 @@
-DDKDKD
+Logo abaixo está tanto a programação do carro como a da casa do nosso projeto de UPX - Garagem Inteligente.
+Então, a programação do RF24_RX-V1 é a da casa e a RF24_TX-V1 é a do dispositivo instalado no carro.
+Armazenamos nosso desenvolvimento da programação aqui devido ao seguinte fator: No Tinkercad não estava disponivel nosso sensor 
+de Rádio Frequência e por isso fizemos um esquema mais simples lá e aplicamos a real programação aqui.
